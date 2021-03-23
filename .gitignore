@@ -1,0 +1,16 @@
+
+.metadata/
+
+dist/
+
+injectlibrary/target/
+
+injectlibrary/injectlibrary-1.0.0-jar-with-dependencies.jar
+
+injectlibrary/.classpath
+
+injectlibrary/.settings/
+
+selling-partner-api-models/
+
+swagger-codegen-cli.jar

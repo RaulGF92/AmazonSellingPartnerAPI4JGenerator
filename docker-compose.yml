@@ -1,0 +1,7 @@
+version: "3.3"
+services:
+  amazon-selling-partner-api-generator:
+    build: .
+    volumes:
+      - ./dist:/app/dist
+      - ./log:/app/log
