@@ -23,7 +23,7 @@ For last you must start container
 docker-compose up
 ```
 
-Finally when container has finished, the main folder () would contain a dist folder with a jar and the project compile with target load of compilations.
+Finally when container has finished, the main folder (*AmazonSellingPartnerAPI4JGenerator*) would contain a dist folder with a jar and the project compile with target load of compilations.
 
 # Result
 > sellingpartnerapi-aa-java-1.0-jar-with-dependencies.jar
