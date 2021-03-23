@@ -31,6 +31,7 @@ Finally when container has finished, the main folder (*AmazonSellingPartnerAPI4J
 this library is a helpfull library to Amazon partner client (selling-partner-client)
 
 > selling-partner-client
+
 It's project target final, it was create by a Swagger Amazon template and load it with esential dependencies for correct work (sellingpartnerapi-aa-java-1.0-jar-with-dependencies.jar).
 
 # Use other model
